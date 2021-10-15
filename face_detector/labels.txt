@@ -1,0 +1,3 @@
+0 Masker dan double Masker
+1 Tidak memakai Masker
+2 pemakaian masker tidak benar
